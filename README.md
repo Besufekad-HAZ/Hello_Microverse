@@ -62,7 +62,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [Hello_Microverse] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+> Description
 
 **[Hello_Microverse]** is my first micoverse project using basic html and css with the right github flow that checks possible linter errors
 
