@@ -206,7 +206,7 @@ Feel free to check the [issues page](../../issues/).
 
 > Write a message to encourage readers to support your project
 
-If you like this project...
+If you like this project rate it and give it a star.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -216,7 +216,7 @@ If you like this project...
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+I would like to thank the Microverse team for allowing us to work on this project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
