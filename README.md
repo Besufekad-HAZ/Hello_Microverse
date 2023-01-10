@@ -211,12 +211,6 @@ Example:
 - Twitter: [@twitterhandle](https://twitter.com/BesufekadAlemu7)
 - LinkedIn: [LinkedIn](www.linkedin.com/in/besura)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
