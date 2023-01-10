@@ -1,3 +1,16 @@
 * {
   box-sizing: border-box;
 }
+
+header {
+  justify-content: center;
+  align-items: center;
+}
+
+.mn_title {
+  color: aliceblue;
+  margin: 0 auto;
+  background-color: black;
+  width: 30%;
+  text-align: center;
+}
