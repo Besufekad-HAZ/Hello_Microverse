@@ -1,1 +1,1 @@
-// checking up the file
+// JS code goes here
